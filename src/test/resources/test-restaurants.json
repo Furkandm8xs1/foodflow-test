@@ -1,0 +1,27 @@
+{
+  "restaurants": [
+    {
+      "id": "T1",
+      "name": "Çiğköfteci Şükrü",
+      "cuisine": "Turkish",
+      "district": "Üsküdar",
+      "deliveryFee": 12.5,
+      "minimumBasket": 100.0,
+      "menu": [
+        { "id": "T1-01", "name": "Çiğ Köfte Dürüm", "category": "Main", "price": 75.0 },
+        { "id": "T1-02", "name": "Şalgam", "category": "Drink", "price": 30.5 }
+      ]
+    },
+    {
+      "id": "T2",
+      "name": "Test Pizza",
+      "cuisine": "Italian",
+      "district": "Şişli",
+      "deliveryFee": 0.0,
+      "menu": [
+        { "id": "T2-01", "name": "Margherita", "category": "Main", "price": 100.0 }
+      ]
+    }
+  ]
+}
+

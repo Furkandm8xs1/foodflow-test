@@ -1,0 +1,23 @@
+register
+Ali Yılmaz
+ali@example.com
+Kadıköy
+Moda Cad. 5
+restaurants
+restaurants --cuisine Turkish
+restaurants --cuisine Martian
+menu R01
+add R01-01 2
+add R01-04 1
+add R01-05 1
+add R01-01 1
+add R02-01 1
+add R01-05 25
+add R01-05 abc
+set R01-05 2
+cart
+order
+cart
+orders
+quit
+
