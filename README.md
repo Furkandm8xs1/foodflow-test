@@ -83,6 +83,13 @@ docs/                      vision, glossary, use cases, FURPS+, domain model,
 | D8 | design rationale: `docs/design-decisions.md` (report itself, contribution table and AI usage log are written by the team) |
 | D9 | `docs/iteration-plan.md` |
 
+## Team Workflow & GitHub Setup (English)
+
+| Guide | File | Description |
+|---|---|---|
+| **25-Commit & Roles Plan** | `docs/team-commit-and-branch-plan.md` | 6 specialized roles, feature branches, and chronological 25-commit breakdown |
+| **Branch Protection & Review** | `docs/github-branch-protection-guide.md` | Step-by-step setup for GitHub Actions CI check + 1 peer approval before merge |
+
 ## Ekip Başlangıç Rehberleri (Guides)
 
 | Rehber | Dosya | Açıklama |
